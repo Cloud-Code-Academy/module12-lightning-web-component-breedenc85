@@ -1,0 +1,9 @@
+.resultText {
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.scoreText {
+    color: red;
+    font-size: 18px;
+}
